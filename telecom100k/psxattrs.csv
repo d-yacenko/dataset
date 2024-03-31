@@ -1,0 +1,7 @@
+Id,PSX,TransmitUnits,Delimiter,DateFormat,TZ
+0,66.1,bits,|,%d/%m/%Y %H:%M:%S,GMT-5
+1,66.2,bits,|,%d/%m/%Y %H:%M:%S,GMT-5
+2,66.3,bits,|,%d/%m/%Y %H:%M:%S,GMT-5
+3,62.0,bytes,",",%d-%m-%Y %H:%M:%S,GMT-6
+4,69.0,bytes,",",%d-%m-%Y %H:%M:%S,GMT-6
+5,65.0,bytes,",",%d-%m-%Y %H:%M:%S,GMT-6
